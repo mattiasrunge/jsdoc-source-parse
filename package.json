@@ -1,0 +1,16 @@
+{
+  "name": "jsdoc-source-parse",
+  "version": "0.0.1",
+  "description": "Parse Javascript source files for import, exports and augment with jsdoc comments",
+  "main": "index.js",
+  "author": "Mattias Runge-Broberg <mattias@runge.se>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "jsdoc-api": "^4.0.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.17.0"
+  }
+}
